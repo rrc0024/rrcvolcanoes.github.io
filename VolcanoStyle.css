@@ -1,1 +1,21 @@
 
+
+body {
+  background-color:rgb(247, 210, 247);
+}
+h3 {
+  font-size:22px;
+  color:rgb(150, 0, 0);
+
+}
+a:hover {
+  color:rgb(181, 51, 181)
+}
+a {
+  font-weight:bold;
+}
+p {
+  font-family:lobster, helvetica,
+  serif;
+
+}
