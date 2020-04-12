@@ -1,20 +1,42 @@
+
 body {
   background-color:rgb(247, 210, 247);
+
+}
+h1 {
+  font-family:fantasy;
+  color:rgb(150, 0, 0);
+  text-align:center;
 }
 h3 {
   font-size:22px;
   color:rgb(150, 0, 0);
+  font-family:fantasy;
 
 }
 a:hover {
-  color:rgb(181, 51, 181)
-  background:rgb(150, 40, 150);
+  color:rgb(181, 51, 181);
 }
 a {
   font-weight:bold;
 }
 p {
-  font-family:lobster, helvetica,
-  serif;
+  font-family: cursive;
 
+}
+
+#funfactdiv {
+  background:rgb(0, 150, 50);
+  float:right;
+  width:100%;
+  align-content:center;
+  margin-left:auto;
+  text-align:center;
+}
+.footer {
+  font-size:11px;
+
+}
+#volcanoformheading {
+  color:rgb(150, 0, 0);
 }
