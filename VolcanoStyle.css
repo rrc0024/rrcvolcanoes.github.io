@@ -24,6 +24,14 @@ p {
   font-family: cursive;
 
 }
+#volcanofpara {
+  float:right;
+  background:rgb(237, 194, 126);
+  border-style:ridge;
+  border:3px;
+  border-color:rgb(197, 227, 225)
+
+}
 
 #funfactdiv {
   background:rgb(0, 150, 50);
