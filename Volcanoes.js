@@ -1,7 +1,9 @@
 
 var correctList = document.getElementsByClassName("correct");
 
-for (var i = 0; i < correctList.length; i++){
-  correctList[i].className = "correct";
-  return "Yay!";
+if (mouseDown && mouseOver && correctList.class = true){
+  correctList.style.color = "green";
+}
+else {
+  Text.style.color = "red";
 }
