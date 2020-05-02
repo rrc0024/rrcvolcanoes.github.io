@@ -6,4 +6,4 @@ if (mouseDown && mouseOver && correctList.class = true){
 }
 else {
   Text.style.color = "red";
-}
+};
