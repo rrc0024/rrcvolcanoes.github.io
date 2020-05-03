@@ -30,8 +30,6 @@ p {
 #volcanoquiz .correct button:focus {
   color: green;
 }
-button {
-}
 nav {
   background-color: rgb(230, 173, 230);
 }
