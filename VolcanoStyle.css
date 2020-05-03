@@ -32,6 +32,9 @@ p {
 }
 button {
 }
+nav {
+  background-color: rgb(230, 173, 230);
+}
 #volcanofpara {
   float:right;
   background:rgb(237, 194, 126);
