@@ -1,9 +1,9 @@
 
 var correctList = document.getElementsByClassName("correct");
-var inCorrectList = document.getElementsByClassName("incorrect");
-if (mouseDown && mouseOver && correctList.className === true) {
-  correctList.style.color = "green";
-}
-else {
-  inCorrectList.style.color = "red";
+var incorrectList = document.getElementsByClassName("incorrect");
+var firstCorrect = document.getElementById("onecorrect");
+
+var onButtonClick = function(){
+  firstCorrect.style.color = "green";
 };
+correctList.addEventListener("click", onButtonClick);

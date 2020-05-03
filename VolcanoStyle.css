@@ -24,6 +24,14 @@ p {
   font-family: cursive;
 
 }
+#volcanoquiz button:focus {
+  color: red;
+}
+#volcanoquiz .correct button:focus {
+  color: green;
+}
+button {
+}
 #volcanofpara {
   float:right;
   background:rgb(237, 194, 126);
